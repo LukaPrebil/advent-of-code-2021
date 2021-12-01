@@ -1,0 +1,14 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": "git@github.com:LukaPrebil/advent-of-code-2021.git",
+  "author": "Luka Prebil Grintal <luka.p.grintal@tretton37.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "days/*"
+    ]
+  }
+}
