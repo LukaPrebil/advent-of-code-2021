@@ -10,5 +10,9 @@
     "packages": [
       "days/*"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^7.8.0",
+    "wsrun": "^5.2.4"
   }
 }
