@@ -12,10 +12,10 @@
     ]
   },
   "scripts": {
-    "lint": "wsrun lint"
+    "lint": "wsrun lint",
+    "start": "wsrun start"
   },
   "devDependencies": {
-    "eslint": "^7.8.0",
     "wsrun": "^5.2.4"
   }
 }
