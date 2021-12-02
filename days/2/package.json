@@ -1,0 +1,14 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint --max-warnings 0 --cache ."
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
+}
